@@ -1,0 +1,6 @@
+@LikeTours_HostAddress = http://localhost:5037
+
+GET {{LikeTours_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
